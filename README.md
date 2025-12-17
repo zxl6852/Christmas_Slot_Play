@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/zxl6852/Christmas_Slot/blob/master/assets/textures/ui/title_bg.png?raw=true" width="50%" alt="title_bg">
+  <img src="docs/title_bg.png" width="50%" alt="title_bg">
 </p>
 
 # Christmas Slot
