@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/zxl6852/Christmas_Slot/blob/master/assets/textures/ui/title_bg.png?raw=true" width="50%" alt="title_bg">
+</p>
+
 # Christmas Slot
 
 一款基於 Cocos Creator 3.8.6 開發的 5x3 聖誕主題老虎機遊戲。
