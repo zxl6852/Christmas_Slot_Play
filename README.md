@@ -1,6 +1,9 @@
 # Christmas Slot
 
-一款基於 Cocos Creator 3.x 開發的 5x3 聖誕主題老虎機遊戲。
+一款基於 Cocos Creator 3.8.6 開發的 5x3 聖誕主題老虎機遊戲。
+
+## 🎮 線上試玩
+[點擊這裡開始遊玩](https://zxl6852.github.io/Christmas_Slot_Play/)
 
 ## 🎮 遊戲特色
 
